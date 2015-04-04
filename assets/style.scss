@@ -41,6 +41,11 @@
     margin-bottom: 40px;
   }
 
+  h3 {
+    padding: 20px;
+    margin: 20px;
+  }
+
   .flash-card-answers {
     @include clearfix;
     width: 100%;
